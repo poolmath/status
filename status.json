@@ -2,12 +2,12 @@
   "statuses": [
     {
       "id": "818e2dae-2d99-4258-8e49-c05b8262784a",
-      "type": 0,
+      "type": 4,
       "level": 0,
-      "message": "No need to worry!",
-      "title": "Testing",
-      "subtitle": "This is a test",
-      "timestamp": "2025-12-13T15:15:11.236-05:00",
+      "message": "Server will be down for maintenance!",
+      "title": "Server Maintenance",
+      "subtitle": "Scheduled Maintenance",
+      "timestamp": "2025-12-18T15:15:11.236-05:00",
       "expires": null
     }
   ],
