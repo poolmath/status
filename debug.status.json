@@ -1,0 +1,24 @@
+{
+  "statuses": [
+    {
+      "id": "818e2dae-2d99-4258-8e49-c05b8262784a",
+      "type": 0,
+      "level": 0,
+      "message": "Starting February 14th, the server will be undergoing routine maintenance.  This is expected to last around 2 hours.  During this time, operations such as creating or updating logs or pool settings, or adding new pools will result in an error.  Thank you for your patience!",
+      "title": "Scheduled Maintenance",
+      "subtitle": "",
+      "timestamp": "2026-01-10T15:15:11.236-05:00",
+      "expires": null
+    }
+  ],
+  "versions": {
+    "all" : {
+      "version": "6.0.2",
+      "required": false,
+      "title": "App Update Required",
+      "subtitle": "",
+      "message": "Please update to the latest version of Pool Math in the app store to continue...",
+      "timestamp": "2026-01-10T16:15:11.236-05:00"
+    }
+  }
+}
