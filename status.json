@@ -2,22 +2,22 @@
   "statuses": [
     {
       "id": "818e2dae-2d99-4258-8e49-c05b8262784a",
-      "type": 0,
-      "level": 0,
-      "message": "Starting December 24th, the server will be undergoing routine maintenance.  This is expected to last around 2 hours.  During this time, operations such as creating or updating logs or pool settings, or adding new pools will result in an error.  Thank you for your patience!",
+      "type": 4,
+      "level": 1,
+      "message": "Server is undergoing maintenance.  Please try again soon!",
       "title": "Scheduled Maintenance",
       "subtitle": "",
-      "timestamp": "2025-12-18T15:15:11.236-05:00",
+      "timestamp": "2026-01-16T15:15:11.236-05:00",
       "expires": null
     }
   ],
   "versions": {
     "all" : {
-      "version": "6.0.1",
+      "version": "5.1.2",
       "required": false,
-      "title": "App Update Required",
+      "title": "App Update Available",
       "subtitle": "",
-      "message": "Please update to the latest version of Pool Math in the app store to continue...",
+      "message": "Please update to the latest version of Pool Math in the app store.",
       "timestamp": "2025-12-18T16:15:11.236-05:00"
     }
   }
