@@ -2,18 +2,18 @@
   "statuses": [
     {
       "id": "818e2dae-2d99-4258-8e49-c05b8262784a",
-      "type": 4,
-      "level": 1,
+      "type": 0,
+      "level": 0,
       "message": "Server is undergoing maintenance.  Please try again soon!",
       "title": "Scheduled Maintenance",
       "subtitle": "",
       "timestamp": "2026-01-16T15:15:11.236-05:00",
-      "expires": null
+      "expires": "2026-01-14T15:15:11.236-05:00"
     }
   ],
   "versions": {
     "all" : {
-      "version": "5.1.2",
+      "version": "5.1.0",
       "required": false,
       "title": "App Update Available",
       "subtitle": "",
